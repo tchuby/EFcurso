@@ -1,0 +1,12 @@
+C:\MyRepo\EFCurso\Ecommerce\eCommerce.Models.DataAnotations\bin\Debug\net6.0\eCommerce.Models.DataAnotations.deps.json
+C:\MyRepo\EFCurso\Ecommerce\eCommerce.Models.DataAnotations\bin\Debug\net6.0\eCommerce.Models.DataAnotations.dll
+C:\MyRepo\EFCurso\Ecommerce\eCommerce.Models.DataAnotations\bin\Debug\net6.0\eCommerce.Models.DataAnotations.pdb
+C:\MyRepo\EFCurso\Ecommerce\eCommerce.Models.DataAnotations\obj\Debug\net6.0\eCommerce.Models.DataAnotations.csproj.AssemblyReference.cache
+C:\MyRepo\EFCurso\Ecommerce\eCommerce.Models.DataAnotations\obj\Debug\net6.0\eCommerce.Models.DataAnotations.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyRepo\EFCurso\Ecommerce\eCommerce.Models.DataAnotations\obj\Debug\net6.0\eCommerce.Models.DataAnotations.AssemblyInfoInputs.cache
+C:\MyRepo\EFCurso\Ecommerce\eCommerce.Models.DataAnotations\obj\Debug\net6.0\eCommerce.Models.DataAnotations.AssemblyInfo.cs
+C:\MyRepo\EFCurso\Ecommerce\eCommerce.Models.DataAnotations\obj\Debug\net6.0\eCommerce.Models.DataAnotations.csproj.CoreCompileInputs.cache
+C:\MyRepo\EFCurso\Ecommerce\eCommerce.Models.DataAnotations\obj\Debug\net6.0\eCommerce.Models.DataAnotations.dll
+C:\MyRepo\EFCurso\Ecommerce\eCommerce.Models.DataAnotations\obj\Debug\net6.0\refint\eCommerce.Models.DataAnotations.dll
+C:\MyRepo\EFCurso\Ecommerce\eCommerce.Models.DataAnotations\obj\Debug\net6.0\eCommerce.Models.DataAnotations.pdb
+C:\MyRepo\EFCurso\Ecommerce\eCommerce.Models.DataAnotations\obj\Debug\net6.0\ref\eCommerce.Models.DataAnotations.dll

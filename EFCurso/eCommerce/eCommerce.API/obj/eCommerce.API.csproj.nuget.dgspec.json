@@ -1,0 +1,218 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\MyRepo\\EFCurso\\Ecommerce\\eCommerce.API\\eCommerce.API.csproj": {}
+  },
+  "projects": {
+    "C:\\MyRepo\\EFCurso\\Ecommerce\\eCommerce.API\\eCommerce.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\MyRepo\\EFCurso\\Ecommerce\\eCommerce.API\\eCommerce.API.csproj",
+        "projectName": "eCommerce.API",
+        "projectPath": "C:\\MyRepo\\EFCurso\\Ecommerce\\eCommerce.API\\eCommerce.API.csproj",
+        "packagesPath": "C:\\Users\\daniel.andrade\\.nuget\\packages\\",
+        "outputPath": "C:\\MyRepo\\EFCurso\\Ecommerce\\eCommerce.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\daniel.andrade\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://pkgs.dev.azure.com/AMBEV-SA/Plataforma-comum/_packaging/acl-components/nuget/v3/index.json": {},
+          "https://pkgs.dev.azure.com/AMBEV-SA/_packaging/aurora%40Local/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\MyRepo\\EFCurso\\Ecommerce\\eCommerce.Models.DataAnotations\\eCommerce.Models.DataAnotations.csproj": {
+                "projectPath": "C:\\MyRepo\\EFCurso\\Ecommerce\\eCommerce.Models.DataAnotations\\eCommerce.Models.DataAnotations.csproj"
+              },
+              "C:\\MyRepo\\EFCurso\\Ecommerce\\eCommerce.Models.FluentAPI\\eCommerce.Models.FluentAPI.csproj": {
+                "projectPath": "C:\\MyRepo\\EFCurso\\Ecommerce\\eCommerce.Models.FluentAPI\\eCommerce.Models.FluentAPI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.20, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.20, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\MyRepo\\EFCurso\\Ecommerce\\eCommerce.Models.DataAnotations\\eCommerce.Models.DataAnotations.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\MyRepo\\EFCurso\\Ecommerce\\eCommerce.Models.DataAnotations\\eCommerce.Models.DataAnotations.csproj",
+        "projectName": "eCommerce.Models.DataAnotations",
+        "projectPath": "C:\\MyRepo\\EFCurso\\Ecommerce\\eCommerce.Models.DataAnotations\\eCommerce.Models.DataAnotations.csproj",
+        "packagesPath": "C:\\Users\\daniel.andrade\\.nuget\\packages\\",
+        "outputPath": "C:\\MyRepo\\EFCurso\\Ecommerce\\eCommerce.Models.DataAnotations\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\daniel.andrade\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://pkgs.dev.azure.com/AMBEV-SA/Plataforma-comum/_packaging/acl-components/nuget/v3/index.json": {},
+          "https://pkgs.dev.azure.com/AMBEV-SA/_packaging/aurora%40Local/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.25, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\MyRepo\\EFCurso\\Ecommerce\\eCommerce.Models.FluentAPI\\eCommerce.Models.FluentAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\MyRepo\\EFCurso\\Ecommerce\\eCommerce.Models.FluentAPI\\eCommerce.Models.FluentAPI.csproj",
+        "projectName": "eCommerce.Models.FluentAPI",
+        "projectPath": "C:\\MyRepo\\EFCurso\\Ecommerce\\eCommerce.Models.FluentAPI\\eCommerce.Models.FluentAPI.csproj",
+        "packagesPath": "C:\\Users\\daniel.andrade\\.nuget\\packages\\",
+        "outputPath": "C:\\MyRepo\\EFCurso\\Ecommerce\\eCommerce.Models.FluentAPI\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\daniel.andrade\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://pkgs.dev.azure.com/AMBEV-SA/Plataforma-comum/_packaging/acl-components/nuget/v3/index.json": {},
+          "https://pkgs.dev.azure.com/AMBEV-SA/_packaging/aurora%40Local/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.25, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[6.0.24, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
